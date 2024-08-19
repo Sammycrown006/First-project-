@@ -1,4 +1,10 @@
-  <body>
+<!DOCTYPE html>
+<head>
+<meta charset="utf-8">
+<title>CarPhotoApp</title>
+</head>
+<html lang="en">
+<body>
     <main>
       <h1>CatPhotoApp</h1>
       <section>
